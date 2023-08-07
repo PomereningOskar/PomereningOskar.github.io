@@ -1,0 +1,10 @@
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    color: orange;
+    content: none;
+    text-align: center;
+}
